@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="./rose_bouquet.gif" width="580" alt="Generative ASCII Rose Bouquet" />
+  <img src="./cat_christmas.gif" width="580" alt="Festive ASCII Cat" />
 </div>
